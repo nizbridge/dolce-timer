@@ -36,10 +36,10 @@ $(document).ready(function() {
   });
   $('button').click(function(){
     if(timer == 0) {
-      alert("타이머를 설정해주세요.");
+      alert("Please set the level.");
     }
     else if(timer_run) {
-      alert("타이머가 작동중입니다");
+      alert("The timer is operating.");
     }
     else {
       if($('#myCircle').hasClass('p100')) {
