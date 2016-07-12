@@ -14,7 +14,7 @@ a:hover,a:active,a:focus{border:0;text-decoration:none;outline:0}
 .contents{overflow:hidden;position:relative;top:50%;left:50%;-webkit-transform:translateY(-50%) translateX(-50%);transform:translateY(-50%) translateX(-50%);margin:0;z-index:10000;}
 .select-box{text-align: center;margin:15px 0}
 .select-box ul li{display:inline-block;}
-.select-box ul li a.on{background:#26a69a}
+.select-box ul li a.on{background:#26a69a;color:#fff;}
 .bar-box{display:inline-block;}
 .level-text{display:block;font-size:1.8em;margin-bottom:10px;}
 button{font-size:1.8em;}
